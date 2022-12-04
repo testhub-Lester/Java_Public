@@ -37,8 +37,7 @@ I use VS Code to code and commit this code
 > Note: Quiz With Timer Method - Question and Answer
 
 - Laboratory Exam 01 - Batch 01 [Click Here](https://github.com/testhub-Lester/Java_Public/blob/master/src/BT301/Midterms_Activities/LaboratoryExam_Batch01_Barcode.java)
-> Note: Barcode - File IO
-> Barcode.txt [Click Here](https://github.com/testhub-Lester/Java_Public/blob/master/src/BT301/Midterms_Activities/Barcode.txt)
+> Note: Barcode - File IO - File: Barcode.txt [Click Here](https://github.com/testhub-Lester/Java_Public/blob/master/src/BT301/Midterms_Activities/Barcode.txt)
 
 - Laboratory Exam 01 - Batch 02 [Click Here](https://github.com/testhub-Lester/Java_Public/blob/master/src/BT301/Midterms_Activities/LaboratoryExam_Batch02_Barcode.java)
 > Note: Barcode - ArrayList

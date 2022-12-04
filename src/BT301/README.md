@@ -43,3 +43,5 @@ I use VS Code to code and commit this code
    > Note: Barcode - ArrayList
 
 ## Archive Folder
+- TimerCode.java
+   > Timer Code by Sir Marjon (Archive)

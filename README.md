@@ -18,4 +18,4 @@ You good to Go. GoodLuck Programming Guys
    > Note:
 
 ## Discord Link - To Be Added
-ZOLO Server > [Invitation](https://www.youtube.com/watch?v=BBJa32lCaaY)
+Server Name - [Invitation](https://www.youtube.com/watch?v=BBJa32lCaaY)

@@ -14,16 +14,16 @@ I use VS Code to code and commit this code
 
 ## Prelims_Activities Folder
 
-- Activity 01 - Batch 01 [Click here]()
+- Activity 01 - Batch 01 [Click here](https://github.com/testhub-Lester/Java_Public/blob/master/src/Prelims_Activities/Activity01_Batch01_Login.java)
 > Note: Login Username and Password
 
-- Activity 01 - Batch 02 [Click here]()
+- Activity 01 - Batch 02 [Click here](https://github.com/testhub-Lester/Java_Public/blob/master/src/Prelims_Activities/Activity01_Batch02_OddEven.java)
 > Note: Odd and Even
 
-- Laboratory Exam 01 - Batch 01 [Click here]()
+- Laboratory Exam 01 - Batch 01 [Click here](https://github.com/testhub-Lester/Java_Public/blob/master/src/Prelims_Activities/LaboratoryExam_Batch01_OddEven.java)
 > Note: Odd and Even Input - Can't Repeat same Number
 
-- Laboratory Exam 01 - Batch 02 [Click here]()
+- Laboratory Exam 01 - Batch 02 [Click here](https://github.com/testhub-Lester/Java_Public/blob/master/src/Prelims_Activities/LaboratoryExam_Batch02_InputUsers.java)
 > Note: User and Pass Input - Can't Repeat same String
 
 ## Midterms_Activities Folder
